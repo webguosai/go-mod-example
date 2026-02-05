@@ -11,6 +11,10 @@
 
 ## 使用
 
+```bash
+go get -u github.com/webguosai/go-mod-example
+```
+
 ```go
 package main
 
